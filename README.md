@@ -12,7 +12,7 @@
 - [Como Usar](https://github.com/victorfl-c/genailite-chatbot?tab=readme-ov-file#como-usar)
 - [Estrutura do Código](https://github.com/victorfl-c/genailite-chatbot?tab=readme-ov-file#estrutura-do-c%C3%B3digo)
 - [Contribuição](https://github.com/victorfl-c/genailite-chatbot?tab=readme-ov-file#depend%C3%AAncias)
-- [Licença](https://github.com/victorfl-c/genailite-chatbot/tree/main?tab=MIT-1-ov-file#)
+- [Licença](https://github.com/victorfl-c/genailite-chatbot/blob/0b9dc11a5cb71630617d66145b06b83975c751d8/LICENSE)
 
 ## Instalação
 
