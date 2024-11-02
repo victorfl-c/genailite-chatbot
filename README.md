@@ -113,4 +113,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork do proje
 5. Abra um Pull Request.
 
 ## Licença
-Este projeto é licenciado sob a Licença MIT. Veja o arquivo [LICENSE](License) para mais detalhes.
+Este projeto é licenciado sob a Licença MIT. Veja o arquivo [LICENSE](https://github.com/victorfl-c/genailite-chatbot/blob/0b9dc11a5cb71630617d66145b06b83975c751d8/LICENSE) para mais detalhes.
