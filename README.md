@@ -9,10 +9,10 @@
 ### Sumário
 - [Instalação](https://github.com/victorfl-c/genailite-chatbot?tab=readme-ov-file#instala%C3%A7%C3%A3o)
 - [Configuração](https://github.com/victorfl-c/genailite-chatbot?tab=readme-ov-file#configura%C3%A7%C3%A3o)
-- [Como Usar](ComoUsar)
-- [Estrutura do Código](Estrutura_do_codigo)
-- [Contribuição](contribuição)
-- [Licença](licença)
+- [Como Usar](https://github.com/victorfl-c/genailite-chatbot?tab=readme-ov-file#como-usar)
+- [Estrutura do Código](https://github.com/victorfl-c/genailite-chatbot?tab=readme-ov-file#estrutura-do-c%C3%B3digo)
+- [Contribuição](https://github.com/victorfl-c/genailite-chatbot?tab=readme-ov-file#depend%C3%AAncias)
+- [Licença](https://github.com/victorfl-c/genailite-chatbot/blob/930029fe55ed00f4d28ad973eafe67158a82272a/LICENSE)
 
 ## Instalação
 
@@ -90,7 +90,7 @@ O script **(genailite_chatbot.py)** está organizado da seguinte forma:
 
   - O chatbot processa as perguntas e as responde até que o usuário opte por sair, mantendo um registro de toda a conversa.
 
-## Dependências
+#### Dependências
 Este projeto depende das seguintes bibliotecas:
 
 - langchain_community
@@ -105,7 +105,7 @@ pip install -r requirements.txt
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork do projeto, criar uma branch com suas mudanças e abrir um pull request. Para problemas ou sugestões, abra uma issue.
 
-## Como Contribuir
+#### Como Contribuir
 1. Faça um fork do projeto.
 2. Crie uma nova branch para suas alterações **(git checkout -b minha-nova-feature)**.
 3. Commit suas mudanças **(git commit -m 'Adiciona nova feature')**.
