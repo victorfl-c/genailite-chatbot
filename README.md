@@ -7,7 +7,7 @@
 - **Flexível e Extensível:** Integrado com o LangChain, o que permite a expansão para outras fontes e fluxos de trabalho de IA.
 
 ### Sumário
-- [Instalação](Instalação)
+- [Instalação]([Instalação](https://github.com/victorfl-c/genailite-chatbot?tab=readme-ov-file#instala%C3%A7%C3%A3o))
 - [Configuração](Configuração)
 - [Como Usar](ComoUsar)
 - [Estrutura do Código](Estrutura_do_codigo)
